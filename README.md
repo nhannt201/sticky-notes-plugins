@@ -1,4 +1,4 @@
-# [Sticky Notes](http://sayakbanerjee.com/sticky-notes) Plugins
+# Sticky Notes Plugins
 
 This repository contains third party themes and language packs for Sticky Notes. Some of these artifacts are not maintained by the Sticky Notes developer, and therefore, may not work correctly with all versions of the application.
 
